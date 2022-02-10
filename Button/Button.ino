@@ -10,7 +10,7 @@
   - 10K resistor attached to pin 2 from ground
 
   - Note: on most Arduinos there is already an LED on the board
-    attached to pin 13.
+    attached to pin 13.123456
 
   created 2005
   by DojoDave <http://www.0j0.org>
